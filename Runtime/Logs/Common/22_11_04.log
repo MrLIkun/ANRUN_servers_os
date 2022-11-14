@@ -1,0 +1,126 @@
+[ 2022-11-04T23:03:19+08:00 ] 127.0.0.1 /index.php/Public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:03:43+08:00 ] 127.0.0.1 /index.php/Public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:04:27+08:00 ] 127.0.0.1 /index.php/Public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:04:55+08:00 ] 127.0.0.1 /index.php/Public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:05:05+08:00 ] 127.0.0.1 /index.php/public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:05:12+08:00 ] 127.0.0.1 /index.php/public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:06:21+08:00 ] 127.0.0.1 /index.php/public/image/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:06:38+08:00 ] 127.0.0.1 /index.php/Public/image/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:06:46+08:00 ] 127.0.0.1 /index.php/index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:Index.php
+
+[ 2022-11-04T23:06:51+08:00 ] 127.0.0.1 /index.php/index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+ERR: 无法加载模块:Index.php
+
+[ 2022-11-04T23:06:51+08:00 ] 127.0.0.1 /index.php/index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+ERR: 无法加载模块:Index.php
+
+[ 2022-11-04T23:06:52+08:00 ] 127.0.0.1 /index.php/index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+ERR: 无法加载模块:Index.php
+
+[ 2022-11-04T23:06:52+08:00 ] 127.0.0.1 /index.php/index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:Index.php
+
+[ 2022-11-04T23:06:53+08:00 ] 127.0.0.1 /index.php/index.php/home/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+ERR: 无法加载模块:Index.php
+
+[ 2022-11-04T23:06:53+08:00 ] 127.0.0.1 /index.php/index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+ERR: 无法加载模块:Index.php
+
+[ 2022-11-04T23:06:54+08:00 ] 127.0.0.1 /index.php/index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:Index.php
+
+[ 2022-11-04T23:06:54+08:00 ] 127.0.0.1 /index.php/index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+ERR: 无法加载模块:Index.php
+
+[ 2022-11-04T23:07:08+08:00 ] 127.0.0.1 /index.php/Public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:09:44+08:00 ] 127.0.0.1 /index.php/Public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:23:33+08:00 ] 127.0.0.1 /index.php/Public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Public
+
+[ 2022-11-04T23:23:45+08:00 ] 127.0.0.1 /index.php/Public/image/08c3eec4f817d936e2e6f0e782f44d3332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+ERR: 无法加载模块:Public
+

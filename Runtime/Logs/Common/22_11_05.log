@@ -1,0 +1,6 @@
+[ 2022-11-05T19:22:42+08:00 ] 192.168.0.113 /index.php/index.php/home/search?id=%E8%9E%BA%E4%B8%9D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+ERR: 无法加载模块:Index.php
+

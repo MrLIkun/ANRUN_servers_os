@@ -1,0 +1,2154 @@
+[ 2022-11-10T00:00:39+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:39','23423','李鑫') [ RunTime:0.0083s ]
+
+[ 2022-11-10T00:00:39+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:39','23423','李鑫') [ RunTime:0.0006s ]
+
+[ 2022-11-10T00:00:40+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:40','23423','李鑫') [ RunTime:0.0008s ]
+
+[ 2022-11-10T00:00:40+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:40','23423','李鑫') [ RunTime:0.0005s ]
+
+[ 2022-11-10T00:00:40+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:40','23423','李鑫') [ RunTime:0.0006s ]
+
+[ 2022-11-10T00:00:40+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:40','23423','李鑫') [ RunTime:0.0007s ]
+
+[ 2022-11-10T00:00:40+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:40','23423','李鑫') [ RunTime:0.0005s ]
+
+[ 2022-11-10T00:00:41+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:41','23423','李鑫') [ RunTime:0.0009s ]
+
+[ 2022-11-10T00:00:41+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:41','23423','李鑫') [ RunTime:0.0006s ]
+
+[ 2022-11-10T00:00:41+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:41','23423','李鑫') [ RunTime:0.0006s ]
+
+[ 2022-11-10T00:00:41+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined variable: info D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 67 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/\" width=\"30\">','螺母','234','2342','423424','A区','2022-11-10 00:00:41','23423','李鑫') [ RunTime:0.0005s ]
+
+[ 2022-11-10T19:17:36+08:00 ] 127.0.0.1 /index.php/home/allData/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015174s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `goods` WHERE ( type='A区' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.012138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.012167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069050s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011835s ]
+
+[ 2022-11-10T19:17:37+08:00 ] 127.0.0.1 /index.php/home/allData/bArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+SQL: SELECT * FROM `goods` WHERE ( type='B区' )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2022-11-10T19:17:38+08:00 ] 127.0.0.1 /index.php/home/allData/bArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SELECT * FROM `goods` WHERE ( type='B区' )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000041s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003748s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2022-11-10T19:17:40+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+ERR: syntax error, unexpected 'id' (T_STRING)
+
+[ 2022-11-10T19:17:41+08:00 ] 127.0.0.1 /index.php/home/allData/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+SQL: SELECT * FROM `goods` WHERE ( type='A区' )  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2022-11-10T19:17:42+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2022-11-10T19:17:42+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000291s ]
+
+[ 2022-11-10T19:17:43+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003774s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2022-11-10T19:17:43+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003757s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003780s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2022-11-10T19:17:43+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2022-11-10T19:17:44+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+ERR: syntax error, unexpected 'id' (T_STRING)
+
+[ 2022-11-10T19:19:27+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2022-11-10T19:19:44+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `goods_in` [ RunTime:0.0007s ]
+SQL: INSERT INTO `goods_in` (`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('螺母','10052','m8','5000','套','A区','2022-11-10 19:19:44','这是一个问题','李鑫') [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: arr1 D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 99 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2022-11-10T19:19:48+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+
+[ 2022-11-10T19:19:48+08:00 ] 127.0.0.1 /index.php/home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061216s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2022-11-10T19:19:57+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2022-11-10T19:20:27+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods_in` (`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('螺母','10052','m8','5000','套','A区','2022-11-10 19:20:27','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods_in` (`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('螺母','10052','m8','5000','套','A区','2022-11-10 19:20:27','这是一个问题','李鑫')
+
+[ 2022-11-10T19:20:36+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2022-11-10T19:22:02+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+ERR: syntax error, unexpected 'id' (T_STRING)
+
+[ 2022-11-10T19:22:07+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+ERR: syntax error, unexpected 'id' (T_STRING)
+
+[ 2022-11-10T19:22:57+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdf11351ee.jpg\" width=\"30\">','螺母','10052','m8','5000','11111','A区','2022-11-10 19:22:57','这是一个问题','李鑫') [ RunTime:0.0006s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods_in` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdf11351ee.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:22:57','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods_in` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdf11351ee.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:22:57','这是一个问题','李鑫')
+
+[ 2022-11-10T19:23:03+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2022-11-10T19:23:52+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdf48d70b7.jpg\" width=\"30\">','螺母','10052','m8','5000','11111','A区','2022-11-10 19:23:52','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdf48d70b7.jpg\" width=\"30\">','螺母','10052','m8','5000','11111','A区','2022-11-10 19:23:52','这是一个问题','李鑫')
+
+[ 2022-11-10T19:24:00+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2022-11-10T19:24:15+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2022-11-10T19:24:58+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2022-11-10T19:25:34+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2022-11-10T19:25:36+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2022-11-10T19:25:38+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2022-11-10T19:26:15+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2022-11-10T19:26:16+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2022-11-10T19:26:29+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe5acea3.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:29','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe5acea3.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:29','这是一个问题','李鑫')
+
+[ 2022-11-10T19:26:29+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe5b210e.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:29','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe5b210e.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:29','这是一个问题','李鑫')
+
+[ 2022-11-10T19:26:29+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe5ded9d.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:29','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe5ded9d.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:29','这是一个问题','李鑫')
+
+[ 2022-11-10T19:26:30+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe616ff1.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:30','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe616ff1.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:30','这是一个问题','李鑫')
+
+[ 2022-11-10T19:26:30+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe6a7a1a.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:30','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe6a7a1a.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:30','这是一个问题','李鑫')
+
+[ 2022-11-10T19:26:30+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe6ad7e0.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:30','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe6ad7e0.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:30','这是一个问题','李鑫')
+
+[ 2022-11-10T19:26:31+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe6f1891.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:30','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe6f1891.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:30','这是一个问题','李鑫')
+
+[ 2022-11-10T19:26:31+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe72e4d8.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:31','这是一个问题','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636cdfe72e4d8.jpg\" width=\"30\">','螺母','10052','m8','5000','套','A区','2022-11-10 19:26:31','这是一个问题','李鑫')
+
+[ 2022-11-10T19:26:41+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2022-11-10T19:28:22+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2022-11-10T19:28:42+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img sr>','name','name','name','2222','name','name','2022-11-10 19:28:42','name','李鑫')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img sr>','name','name','name','2222','name','name','2022-11-10 19:28:42','name','李鑫')
+
+[ 2022-11-10T19:32:58+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+
+[ 2022-11-10T19:32:58+08:00 ] 127.0.0.1 /index.php/home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2022-11-10T19:33:10+08:00 ] 127.0.0.1 /index.php/home/login/verifi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+ERR: 1146:Table 'all_goods.alluser' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `alluser`
+ERR: 1146:Table 'all_goods.alluser' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `alluser`
+
+[ 2022-11-10T19:33:13+08:00 ] 127.0.0.1 /index.php/home/login/verifi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+ERR: 1146:Table 'all_goods.alluser' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `alluser`
+ERR: 1146:Table 'all_goods.alluser' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `alluser`
+
+[ 2022-11-10T19:38:15+08:00 ] 127.0.0.1 /index.php/home/login/verifi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+SQL: SHOW COLUMNS FROM `alluser` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `alluser` WHERE ( username='anrun' AND password='123456' ) LIMIT 1   [ RunTime:0.2843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002439s ]
+
+[ 2022-11-10T19:38:15+08:00 ] 127.0.0.1 /index.php/home/login/oschoose
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2022-11-10T19:38:16+08:00 ] 127.0.0.1 /index.php/home/login/verifiAccess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+SQL: SELECT * FROM `alluser` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2022-11-10T19:38:16+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SELECT * FROM `alluser` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2022-11-10T19:38:17+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2022-11-10T19:38:19+08:00 ] 127.0.0.1 /index.php/home/allData/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+SQL: SELECT * FROM `goods` WHERE ( type='A区' )  [ RunTime:0.0354s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005480s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2022-11-10T19:38:19+08:00 ] 127.0.0.1 /index.php/home/allData/bArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+SQL: SELECT * FROM `goods` WHERE ( type='B区' )  [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004958s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2022-11-10T19:38:20+08:00 ] 127.0.0.1 /index.php/home/allData/cArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SELECT * FROM `goods` WHERE ( type='C区' )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000043s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2022-11-10T19:38:20+08:00 ] 127.0.0.1 /index.php/home/allData/dArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SELECT * FROM `goods` WHERE ( type='D区' )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2022-11-10T19:38:21+08:00 ] 127.0.0.1 /index.php/home/allData/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SELECT * FROM `goods` WHERE ( type='A区' )  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003786s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2022-11-10T19:38:25+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2022-11-10T19:38:53+08:00 ] 127.0.0.1 /index.php/home/goodsIn/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `goods` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636ce2cd53e8d.jpg\" width=\"30\">','螺母','10053','m6','10000','个','B区','2022-11-10 19:38:53','这是一个问题','李鑫') [ RunTime:0.0009s ]
+SQL: INSERT INTO `goods_in` (`images`,`name`,`goods_id`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`,`in_people`) VALUES ('<img src=\"/Public/image/636ce2cd53e8d.jpg\" width=\"30\">','螺母','10053','m6','10000','个','B区','2022-11-10 19:38:53','这是一个问题','李鑫') [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000369s ]
+
+[ 2022-11-10T19:43:49+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2022-11-10T19:43:50+08:00 ] 127.0.0.1 /index.php/home/goodsOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsOutController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022738s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2022-11-10T19:43:52+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0473s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2022-11-10T19:43:55+08:00 ] 127.0.0.1 /index.php/home/goodsOut/outrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `goods_out` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `goods_out` ORDER BY change_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2022-11-10T19:43:56+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003609s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2022-11-10T19:44:04+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2022-11-10T19:44:06+08:00 ] 127.0.0.1 /index.php/home/goodsOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsOutController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004326s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2022-11-10T19:44:07+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2022-11-10T19:44:13+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005317s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2022-11-10T19:44:28+08:00 ] 127.0.0.1 /index.php/home/goodsIn/in?name=%E8%9E%BA%E6%AF%8D&norms=m8&goods_id=10052&numbers=&unit=%E5%A5%97&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 22 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `goods` WHERE ( table_id= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `goods` WHERE ( table_id= ) LIMIT 1  
+
+[ 2022-11-10T19:44:38+08:00 ] 127.0.0.1 /index.php/home/goodsIn/in?name=%E8%9E%BA%E6%AF%8D&norms=m8&goods_id=10052&numbers=&unit=%E5%A5%97&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 22 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `goods` WHERE ( table_id= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `goods` WHERE ( table_id= ) LIMIT 1  
+
+[ 2022-11-10T19:59:18+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SELECT * FROM `alluser` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2022-11-10T19:59:19+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006296s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2022-11-10T19:59:20+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000536s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000626s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2022-11-10T19:59:29+08:00 ] 127.0.0.1 /index.php/home/update?table_id=1&name=%E8%9E%BA%E6%AF%8D&norms=m8&numbers=5000&unit=%E4%B8%AA&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\UpdateController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2022-11-10T19:59:31+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2022-11-10T19:59:32+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003029s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2022-11-10T19:59:33+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2022-11-10T19:59:33+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2022-11-10T19:59:33+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2022-11-10T19:59:33+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2022-11-10T19:59:34+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000043s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003817s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2022-11-10T19:59:41+08:00 ] 127.0.0.1 /index.php/home/update?table_id=1&name=%E8%9E%BA%E6%AF%8D&norms=m8&numbers=5000&unit=%E4%B8%AA&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\UpdateController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2022-11-10T20:02:06+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003773s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2022-11-10T20:02:15+08:00 ] 127.0.0.1 /index.php/home/update?table_id=1&name=%E8%9E%BA%E6%AF%8D&norms=m8&numbers=5000&unit=%E5%A5%97&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: UPDATE `goods` SET `name`='螺母',`norms`='m8',`numbers`='5000',`type`='A区',`change_time`='2022-11-10',`remark`='这是一个问题' WHERE `table_id` = 1 [ RunTime:0.0563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2022-11-10T20:02:17+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2022-11-10T20:02:18+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2022-11-10T20:02:19+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004727s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000766s ]
+
+[ 2022-11-10T20:02:20+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2022-11-10T20:06:02+08:00 ] 127.0.0.1 /index.php/home/update?table_id=1&name=%E8%9E%BA%E6%AF%8D&norms=m8&numbers=5000&unit=%E4%B8%AA&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+ERR: syntax error, unexpected ':'
+
+[ 2022-11-10T20:06:06+08:00 ] 127.0.0.1 /index.php/home/update?table_id=1&name=%E8%9E%BA%E6%AF%8D&norms=m8&numbers=5000&unit=%E4%B8%AA&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+ERR: syntax error, unexpected ':'
+
+[ 2022-11-10T20:06:15+08:00 ] 127.0.0.1 /index.php/home/update?table_id=1&name=%E8%9E%BA%E6%AF%8D&norms=m8&numbers=5000&unit=%E4%B8%AA&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+SQL: UPDATE `goods` SET `name`='螺母',`norms`='m8',`numbers`='5000',`type`='A区',`change_time`='2022-11-10',`remark`='这是一个问题' WHERE `table_id` = 1 [ RunTime:0.0006s ]
+
+[ 2022-11-10T20:07:34+08:00 ] 127.0.0.1 /index.php/home/update?table_id=1&name=%E8%9E%BA%E6%AF%8D&norms=m8&numbers=5000&unit=%E4%B8%AA&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: UPDATE `goods` SET `name`='螺母',`norms`='m8',`unit`='个',`numbers`='5000',`type`='A区',`change_time`='2022-11-10',`remark`='这是一个问题' WHERE `table_id` = 1 [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2022-11-10T20:07:35+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2022-11-10T20:07:37+08:00 ] 127.0.0.1 /index.php/home/allData/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+SQL: SELECT * FROM `goods` WHERE ( type='A区' )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2022-11-10T20:07:38+08:00 ] 127.0.0.1 /index.php/home/allData/bArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: SELECT * FROM `goods` WHERE ( type='B区' )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2022-11-10T20:07:39+08:00 ] 127.0.0.1 /index.php/home/allData/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SELECT * FROM `goods` WHERE ( type='A区' )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2022-11-10T20:07:40+08:00 ] 127.0.0.1 /index.php/home/allData/bArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+SQL: SELECT * FROM `goods` WHERE ( type='B区' )  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005210s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2022-11-10T20:07:40+08:00 ] 127.0.0.1 /index.php/home/allData/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SELECT * FROM `goods` WHERE ( type='A区' )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004550s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2022-11-10T20:07:41+08:00 ] 127.0.0.1 /index.php/home/allData/bArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+SQL: SELECT * FROM `goods` WHERE ( type='B区' )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000043s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2022-11-10T20:07:43+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006550s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2022-11-10T20:07:59+08:00 ] 127.0.0.1 /index.php/home/goodsIn/in?table_id=1&name=%E8%9E%BA%E6%AF%8D&norms=m8&goods_id=10052&numbers=10000&unit=%E4%B8%AA&type=A%E5%8C%BA&remark=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SELECT * FROM `goods` WHERE ( table_id=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `goods_in` (`images`,`goods_id`,`name`,`norms`,`numbers`,`unit`,`type`,`change_time`,`remark`) VALUES ('<img src=\"/Public/image/636cdf11351ee.jpg\" width=\"30\">','10052','螺母','m8','10000','个','A区','2022-11-10 20:07:59','这是一个问题') [ RunTime:0.0007s ]
+SQL: UPDATE `goods` SET `name`='螺母',`goods_id`='10052',`norms`='m8',`numbers`='15000',`unit`='个',`type`='A区',`change_time`='2022-11-10 20:07:59',`remark`='这是一个问题' WHERE `table_id` = 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2022-11-10T20:08:03+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000041s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003252s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2022-11-10T20:08:07+08:00 ] 127.0.0.1 /index.php/home/allData/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SELECT * FROM `goods` WHERE ( type='A区' )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003156s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2022-11-10T20:08:09+08:00 ] 127.0.0.1 /index.php/home/allData/bArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+SQL: SELECT * FROM `goods` WHERE ( type='B区' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004143s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2022-11-10T20:08:11+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2022-11-10T20:08:12+08:00 ] 127.0.0.1 /index.php/home/goodsOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsOutController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004174s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2022-11-10T20:08:13+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2022-11-10T20:08:15+08:00 ] 127.0.0.1 /index.php/home/goodsOut/outrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+SQL: SELECT * FROM `goods_out` ORDER BY change_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003988s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004028s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2022-11-10T20:08:16+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2022-11-10T20:11:00+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004824s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2022-11-10T20:11:01+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2022-11-10T20:11:01+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2022-11-10T20:11:03+08:00 ] 127.0.0.1 /index.php/home/goodsOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsOutController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2022-11-10T20:11:03+08:00 ] 127.0.0.1 /index.php/home/goodsIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsInController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003680s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2022-11-10T20:11:04+08:00 ] 127.0.0.1 /index.php/home/goodsOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+NOTIC: [8] Undefined index: id D:\phpstudy_pro\WWW\Application\Home\Controller\GoodsOutController.class.php 第 7 行.
+SQL: SELECT * FROM `goods` WHERE `name` LIKE '%%'  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000041s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2022-11-10T20:11:04+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2022-11-10T20:11:04+08:00 ] 127.0.0.1 /index.php/home/goodsIn/inrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SELECT * FROM `goods_in` ORDER BY change_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004118s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2022-11-10T20:11:06+08:00 ] 127.0.0.1 /index.php/home/allData/aArea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SELECT * FROM `goods` WHERE ( type='A区' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2022-11-10T20:11:07+08:00 ] 127.0.0.1 /index.php/home/allData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003365s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
